@@ -1,16 +1,16 @@
 {
-  "name": "v1",
+  "name": "akash",
   "version": "1.0.0",
   "engines": {
     "node": "6.11.1"
   },
-  "description": "YelpCamp v1",
+  "description": "blog v1",
   "main": "app.js",
   "scripts": {
     "start": "node app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Colt Steele",
+  "author": "Akash Adarsh",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
